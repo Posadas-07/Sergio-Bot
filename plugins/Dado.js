@@ -7,7 +7,7 @@ const handler = async (msg, { conn }) => {
     "https://cdn.russellxz.click/1c8300d6.webp",
     "https://cdn.russellxz.click/3355226c.webp",
     "https://cdn.russellxz.click/76fc6155.webp"
-    // "https://TUPENDIENTE.com/dado6.webp"
+    "https://cdn.russellxz.click/9e6dc2eb.webp"
   ];
 
   const dadoUrl = dados[Math.floor(Math.random() * dados.length)];
